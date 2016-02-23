@@ -1,0 +1,16 @@
+base
+shiny
+leaflet
+lubridate
+markdown
+slidify
+pryr
+devtools
+rCharts
+ggplot2
+car
+rsconnect
+xtable
+plyr
+dplyr
+tidyr
